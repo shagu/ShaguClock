@@ -2,7 +2,7 @@
 
 Nothing special, all it does is, it draws a movable clock on the screen. Click to drag it.
 
-![preview](https://i.imgur.com/HFhy7AF.png)
+![preview](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguClock/orgrimmar.png)
 
 ## Installation
 1. Download **[Latest Version](https://github.com/shagu/ShaguClock/archive/master.zip)**
